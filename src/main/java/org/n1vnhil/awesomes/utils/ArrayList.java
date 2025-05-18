@@ -1,4 +1,4 @@
-package org.n1vnhil.awesomes;
+package org.n1vnhil.awesomes.utils;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

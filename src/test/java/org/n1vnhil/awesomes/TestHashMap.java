@@ -2,6 +2,7 @@ package org.n1vnhil.awesomes;
 
 
 import org.junit.Test;
+import org.n1vnhil.awesomes.utils.HashMap;
 
 public class TestHashMap {
 

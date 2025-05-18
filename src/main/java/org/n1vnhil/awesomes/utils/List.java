@@ -1,4 +1,4 @@
-package org.n1vnhil.awesomes;
+package org.n1vnhil.awesomes.utils;
 
 public interface List<T> extends Iterable<T> {
 

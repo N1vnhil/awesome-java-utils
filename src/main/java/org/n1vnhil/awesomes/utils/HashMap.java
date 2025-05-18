@@ -1,7 +1,6 @@
-package org.n1vnhil.awesomes;
+package org.n1vnhil.awesomes.utils;
 
 
-import javax.swing.*;
 import java.util.Objects;
 
 public class HashMap<K, V> {

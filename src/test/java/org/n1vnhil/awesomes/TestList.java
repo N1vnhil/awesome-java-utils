@@ -1,6 +1,9 @@
 package org.n1vnhil.awesomes;
 
 import org.junit.Test;
+import org.n1vnhil.awesomes.utils.ArrayList;
+import org.n1vnhil.awesomes.utils.LinkedList;
+import org.n1vnhil.awesomes.utils.List;
 
 public class TestList {
 

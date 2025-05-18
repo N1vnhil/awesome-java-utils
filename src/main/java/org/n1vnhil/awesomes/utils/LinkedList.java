@@ -1,7 +1,5 @@
-package org.n1vnhil.awesomes;
+package org.n1vnhil.awesomes.utils;
 
-import javax.management.NotificationEmitter;
-import javax.xml.stream.events.NotationDeclaration;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
